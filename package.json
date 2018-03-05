@@ -1,0 +1,12 @@
+{
+  "name": "hokuyo-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "clear && sudo nodemon index.js"
+  },
+  "dependencies": {
+    "usb": "^1.3.1"
+  }
+}
